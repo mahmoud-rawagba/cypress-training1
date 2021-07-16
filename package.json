@@ -1,0 +1,24 @@
+{
+  "name": "cypress-training1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha mocha-task.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoud-rawagba/cypress-training1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoud-rawagba/cypress-training1/issues"
+  },
+  "homepage": "https://github.com/mahmoud-rawagba/cypress-training1#readme"
+}
