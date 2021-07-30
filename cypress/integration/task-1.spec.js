@@ -48,3 +48,4 @@ describe('TEST SUIT 3', () =>{
         cy.get('.cb1-element').should('be.checked')
     })
 })
+//end
