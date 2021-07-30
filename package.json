@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@applitools/eyes-cypress": "^3.22.1",
     "browser": "^0.2.6",
+    "cypress": "^8.0.0",
     "in": "^0.18.2",
     "mocha": "^9.0.2",
     "open": "^8.2.1"
