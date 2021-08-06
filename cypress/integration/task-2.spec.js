@@ -52,8 +52,4 @@ describe('TODOS', () =>{
       cy.contains('.todo-count','1 item left')
     })
     })
-
-    it('empty test',()=>{
-        
-    })
 })
